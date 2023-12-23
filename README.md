@@ -1,4 +1,4 @@
-# Multi-Agent-DDPG-using-PTtorch-and-ML-Agents
+# Multi-Agent-Target-Hunting-using-PTtorch-and-ML-Agents
 A simple example of how to implement vector based DDPG for MARL tasks using PyTorch and a ML-Agents environment.
 
 The repository includes the following files:
